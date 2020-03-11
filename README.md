@@ -13,15 +13,15 @@
 </ul>
 
 ### Addvanced plan:
-<p>User can make video calls</p>
+<p><strong>User can make video calls</strong></li>
 
 ### Technologies
 
-Frontend:
+#### Frontend:
 - HTML5 + CSS;
 - React;
 
-Backend:
+#### Backend:
 - PostgreSQL; 
 - Node.js;
 - Socket.IO
