@@ -24,6 +24,6 @@
 #### Backend:
 - PostgreSQL; 
 - Node.js;
-- Socket.IO
+- Socket.IO;
 - OpenTok.
 
